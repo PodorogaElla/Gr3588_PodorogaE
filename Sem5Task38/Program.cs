@@ -1,5 +1,6 @@
 ﻿// Задайте массив вещественных чисел. Найдите разницу 
 // между максимальным и минимальным элементов массива.
+
 double[] array = GenArray(5,100,999);
 PrintArray(array);
 double maxValue =  double.MinValue; 
